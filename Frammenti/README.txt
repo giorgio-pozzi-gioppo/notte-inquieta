@@ -1,1 +1,1 @@
-Sezione dedicata ai frammenti di Notte Inquieta.
+Racconti brevi e frammenti narrativi ambientati in Notte Inquieta.
