@@ -41,3 +41,5 @@ Questo repository contiene invece le versioni sorgente complete (.txt) e la stru
 NOTE
 
 Questo repository contiene versioni testuali (.txt) per garantire la massima compatibilità e durata nel tempo.
+
+Per iniziare: vedi START_HERE.txt
