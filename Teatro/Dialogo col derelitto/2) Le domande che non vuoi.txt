@@ -1,0 +1,123 @@
+Dialogo col derelitto - Le domande che non vuoi (Atto II)
+
+Una stanza senza finestre.
+Un nome pronunciato, e il silenzio che risponde.
+Non è teatro né racconto: è un enigma in tre atti, dove chi parla non è mai chi credi.
+
+Personaggi:
+Antarius: lo studioso
+Nimorion: l’uomo mascherato
+
+(La stanza è la stessa dell’Atto I, ma sembra lievemente diversa: la scrivania è più vicina al muro, il cerchio sul pavimento ora è tracciato in cenere vetrificata, spezzata in diversi punti.
+La clessidra è scomparsa. Al suo posto, una rosa nera appassita.
+Nimorion è in piedi sopra un piedistallo che prima non c’era. Imita la posa di una statua greca. Le braccia larghe, il mento alto. Si muove appena.)
+
+NIMORION
+Dimmi Antarius:
+quando hai smesso di cercare tua figlia?
+
+(Antarius alza lo sguardo di scatto. È in piedi vicino alla parete. La maschera metallica di Nimorion riflette la sua figura distorcendola.)
+
+ANTARIUS
+Io non sono qui per questo.
+
+NIMORION
+Ma io sì.
+
+(pausa)
+
+Vuoi sapere cos’hai sbagliato nel tuo rituale di evocazione?
+Non il cerchio. Non il nome. Neanche l’ora.
+Il problema… è che volevi parlarmi
+senza ascoltare davvero quello che ho da dirti.
+
+ANTARIUS
+(sforzandosi di mantenere il tono neutro)
+Tu leggi la mente?
+
+NIMORION
+Non proprio.
+Piuttosto leggo i desideri.
+Sono molto più chiari.
+Anche con i bugiardi.
+(Nimorion scende dal piedistallo che svanisce. Cammina lentamente verso la scrivania. Tocca il taccuino con un dito guantato. Si volta lentamente verso Antarius.)
+
+NIMORION
+Dunque.
+Facciamo così.
+Io risponderò solo alle domande che non vuoi farmi.
+In cambio, tu potrai tenermi qui a parlare quanto vuoi.
+Può andare bene per te?
+
+(Antarius resta immobile. Poi, impercettibilmente, annuisce.)
+
+ANTARIUS
+Va bene.
+
+NIMORION
+Bene. Allora fammi cominciare.
+(pausa teatrale)
+Perché hai lasciato che Sototh assorbisse la tua vecchia città e probabilmente la tua stessa figlia senza battere ciglio?
+
+(Silenzio. Antarius si volta di spalle. Non risponde.)
+
+NIMORION
+(ammiccando)
+Troppo presto?
+
+ANTARIUS
+Perché ti diverti?
+
+NIMORION
+E perché no? La vita è già abbastanza deprimente di suo, non trovi?
+
+(Si ferma. Apre una piccola tasca del suo mantello. Ne estrae tre oggetti: una piccola maschera, un rosario spezzato, una perla scura.)
+
+NIMORION
+Guarda.
+Tre oggetti. Tre storie. Una è tua.
+Le altre due… le cancelleremo dopo la nostra chiacchierata.
+Quale scegli?
+
+ANTARIUS
+(quasi in trance)
+La perla.
+
+(Nimorion sorride. La fa rotolare sul tavolo. La perla lascia una scia di fumo verdastro e svanisce.)
+
+NIMORION
+Bene.
+La perla contiene il sogno che faceva tua figlia prima di sparire.
+Era un sogno rovesciato.
+
+(Alza lo sguardo allungando la mano sopra la testa)
+
+NIMORION 
+Lei volava verso il basso, tu invece cadevi in alto. E un piccolo fiore sbocciava dove le tue mani toccavano il cielo.
+Ma tu non c’eri, Antarius.
+Neanche nel suo sogno.
+
+(Antarius chiude gli occhi. Respira forte. Poi si avvicina al tavolo come a volersi appoggiare. Nimorion è sparito.)
+
+(Voce di Nimorion, fuori scena. Un sussurro ovunque.)
+
+NIMORION (fuori scena)
+Tu non c’eri...
+
+(La luce della stanza traballa debolmente.)
+
+NIMORION 
+Ci sei quasi.
+Ma ricorda…
+quando arriveremo al dunque,
+non si potrà tornare indietro.
+
+(La luce comincia a pulsare lentamente, come un respiro. L’ombra di una nuova maschera si forma sulla parete.)
+
+FINE ATTO II
+
+---
+Annotazioni: 0,3343 SHA-256 791767066d7823a35ec4  
+@Giorgio Pozzi <Gioppo>: 24,23 57,186 244,21 266,1036 1313,734 2050,346 2397,745 3143,43 3215,128  
+@Giorgio Pozzi <gioppo>: 0,24 47,10 243 265 1302,11 2047,3 2396 3142 3186,29  
+...

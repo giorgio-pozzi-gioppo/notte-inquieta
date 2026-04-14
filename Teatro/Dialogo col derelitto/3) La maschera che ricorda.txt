@@ -1,0 +1,114 @@
+Dialogo col derelitto - La maschera che ricorda (Atto III)
+
+Tre atti.
+Due voci.
+Qualcuno che ascolta.
+
+Personaggi:
+Antarius: o ciò che ne resta
+Nimorion: o ciò che ci rivela
+
+La stanza è cambiata di nuovo.
+È più grande. Le pareti sembrano muoversi lentamente come se respirassero tramite il camino. Una brezza ha spazzato via la polvere.
+Nel mezzo, una sedia solitaria.
+Antarius è seduto. È immobile. Davanti a lui, sopra il cerchio di cenere vetrificata fluttua uno specchio, ma lui lo ignora.
+
+(Voce fuori scena. Quasi un sussurro nell’orecchio del lettore.)
+
+NIMORION (fuori scena)
+Quando il vetro si rompe, non rimangono che frammenti.
+Ma i frammenti… possono ricordare.
+
+(Nimorion appare davanti allo specchio, ma non si riflette.
+Indossa un abito elegante di tessuto bianco e una maschera candida e lucida che copre solo il viso.)
+
+NIMORION
+Sai quanti evocatori mi temono e restano in piedi fino alla fine? Sono felice che ti sia seduto.
+Stiamo già diventando amici?
+
+ANTARIUS
+(Tagliente)
+Smettila, so di non essere Antarius.
+
+(Pausa. Nimorion lo guarda per la prima volta senza ironia.)
+
+NIMORION
+Bene.
+Finalmente ci sei arrivato.
+È per questo che sono qui.
+
+ANTARIUS
+(non lo guarda)
+Non sono umano.
+Non sono neanche intero.
+Cosa sono?
+
+NIMORION
+Sei un tentativo disperato.
+Una voce in cerca del suo corpo.
+
+(Nimorion si avvicina. Toglie lentamente la maschera apparendo anche nello specchio.
+Sotto c’è un volto senza tratti, sfocato, coperto da un velo di fumo. Ma per un istante, riflesso nello specchio, ha il volto di Antarius da giovane.)
+
+NIMORION
+Tu sei ciò che Antarius lasciò indietro.
+L’eco di un vecchio amico
+Un brillante esperimento di memoria incarnata.
+Un costrutto pieno di volontà, ma vuoto di anima.
+
+ANTARIUS
+Eppure ho evocato te.
+
+NIMORION
+Hai evocato ciò che resta della sua colpa.
+
+(Pausa. Lo specchio comincia a incrinarsi lentamente, senza rumore.)
+
+ANTARIUS
+Allora…
+Tu sei il mio padrone?
+
+NIMORION
+(Sorridendo)
+No.
+Sono la tua occasione.
+La tua unica possibilità di non essere solo un errore ben scritto, abbandonato in un laboratorio nel cuore pulsante della città di Ythia. C’è ancora bisogno di te,
+la tua strada è già stata preparata.
+
+(Lo specchio si rompe. Ma non cade. Resta sospeso in mille pezzi.)
+
+ANTARIUS
+(sempre più calmo)
+Se smetto di studiarti e di cercare la verità, posso diventare reale?
+
+NIMORION
+Solo se indosserai una delle mie maschere.
+
+(Nimorion tende la mano. Sul palmo ha una nuova maschera metallica.
+Semplice, ma col viso inciso tra rovi e rune. Silenzio lungo.)
+
+ANTARIUS
+E se la indosso?
+
+NIMORION
+Allora inizierà il tuo spettacolo.
+
+(Antarius prende la maschera. Se la avvicina al volto.
+La scena si oscura prima che la indossi del tutto.
+Nel buio, si sente solo la sua voce.)
+
+ANTARIUS (voce nell’oscurità)
+Sono pronto a diventare il grande Antarius.
+
+(Una luce lieve si riaccende. Nimorion e Antarius sono spariti.
+Nessun corpo, nessuno specchio, nessun cerchio. La sala è vuota, il portone socchiuso, ma sul muro, appena visibile, una scritta appare.)
+
+“Nessuno è davvero reale, finché non sceglie chi essere.”
+
+FINE.
+
+---
+Annotazioni: 0,3085 SHA-256 1eae7d721bfc7ffad4f8  
+@Giorgio Pozzi <Gioppo>: 24,23 58,65 124,28 153,366 521,223 747,237 993,13 1008,1100 2134 2138,947  
+@Giorgio Pozzi <gioppo>: 0,24 47,11 123 152 519,2 744,3 984,9 1006,2 2108,26 2135,3  
+...
