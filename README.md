@@ -33,7 +33,8 @@ ARCHIVIO UFFICIALE
 Le versioni ufficiali e impaginate dei testi sono archiviate su Internet Archive:
 
 [https://archive.org/details/dialogo-col-derelitto-trilogia-teatrale](https://archive.org/details/@gioppo_notteinquieta)
-Le pubblicazioni ancora incomplete sono reperibili su vari siti raccolti su http://www.notteinquieta.it 
+
+Le pubblicazioni ancora incomplete sono reperibili su vari siti raccolti nella pagina Letture su http://www.notteinquieta.it 
 
 NOTE
 
