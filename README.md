@@ -43,3 +43,5 @@ NOTE
 Questo repository contiene versioni testuali (.txt) per garantire la massima compatibilità e durata nel tempo.
 
 Per iniziare: vedi START_HERE.txt
+
+Linee generali del mondo: vedi cartella Canone
