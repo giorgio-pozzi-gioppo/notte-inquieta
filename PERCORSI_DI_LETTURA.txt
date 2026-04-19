@@ -14,7 +14,7 @@ Se non sai da dove iniziare, puoi seguire uno di questi percorsi.
 
 Se cerchi una lettura più guidata e progressiva, questo è il punto migliore per iniziare.
 
-→ Diradando l’oblio
+→ Diradando l’oblio (nella cartella Racconti Intrecciati)
 
 Una raccolta di racconti intrecciati che introduce gradualmente il mondo, i personaggi e le dinamiche principali.
 
@@ -23,7 +23,7 @@ Una raccolta di racconti intrecciati che introduce gradualmente il mondo, i pers
 
 Se preferisci dialoghi densi, simbolici e teatrali:
 
-→ Dialogo col Derelitto
+→ Dialogo col Derelitto (nella cartella Teatro)
 
 Una trilogia in forma di dialogo che esplora identità, memoria, trasformazione e linguaggio.
 
@@ -32,7 +32,7 @@ Una trilogia in forma di dialogo che esplora identità, memoria, trasformazione 
 
 Se vuoi esplorare il mondo senza una struttura lineare:
 
-→ Frammenti ai margini
+→ Frammenti ai margini (nella cartella Frammenti)
 
 Testi brevi e indipendenti che mostrano parti diverse del mondo, spesso ai suoi confini.
 
@@ -41,7 +41,7 @@ Testi brevi e indipendenti che mostrano parti diverse del mondo, spesso ai suoi 
 
 Se preferisci muoverti liberamente:
 
-→ Esplora le cartelle del repository
+→ Esplora tutte le cartelle del repository
 
 Puoi leggere qualsiasi testo, senza un ordine preciso. I contenuti sono collegati tra loro, ma non richiedono una sequenza obbligatoria.
 
