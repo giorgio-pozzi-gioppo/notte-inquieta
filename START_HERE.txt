@@ -9,7 +9,7 @@ Puoi iniziare in tre modi:
 1) Leggere le opere già pubblicate in versione ufficiale:
 https://archive.org/details/@gioppo_notteinquieta
 
-2) Esplorare qui su GitHub i testi sorgente e l’archivio in evoluzione:
+2) Esplorare qui su GitHub i testi sorgente e l’archivio in evoluzione
 
 3) Visitare il sito di Notte Inquieta per orientarti tra i contenuti e accedere ad altro materiale:
 https://www.notteinquieta.it
