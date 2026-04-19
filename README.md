@@ -17,6 +17,10 @@ Non è un’opera chiusa, ma una struttura in evoluzione.
 
 COME ORIENTARSI
 
+Questo repository non è pensato come punto di ingresso alla lettura.
+Per leggere i contenuti in modo guidato, visita:
+https://www.notteinquieta.it
+
 Per iniziare:
 → vedi START_HERE.txt
 
