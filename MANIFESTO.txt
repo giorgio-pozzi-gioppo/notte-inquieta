@@ -12,13 +12,14 @@ Può essere attraversato.
 
 Chiunque vi entri è invitato a farlo con cura,
 con attenzione,
-e con amore verso ciò che esiste già.
+e con rispetto verso ciò che esiste già.
 
 Se questo archivio verrà copiato, duplicato o trasformato,
 allora avrà fatto il suo lavoro.
 
-Versioni ufficiali disponibili su Internet Archive.
-Struttura sorgente disponibile su GitHub.
-Cardine dei contenuti su www.notteinquieta.it
+Le versioni ufficiali sono disponibili su Internet Archive.
+La struttura sorgente è ospitata su GitHub.
+Per una visione complessiva del progetto:
+https://www.notteinquieta.it
 
-Giorgio Pozzi
+Giorgio Pozzi in arte Gioppo
