@@ -1,8 +1,10 @@
 FONDAMENTI – NOTTE INQUIETA (v0)
 
 Questo documento raccoglie le basi del canone di Notte Inquieta.
+Serve a mantenere coerenza nel tempo.
+
 Non è completo né definitivo.
-È uno strumento di lavoro per mantenere coerenza nel tempo.
+[alcuni elementi, al momento, sono volutamente omessi]
 
 ⸻
 
@@ -27,7 +29,7 @@ Queste entità non sono semplici personaggi, ma forze strutturali del mondo inca
 
 ⸻
 
-	3.	REGOLE NON NEGOZIABILI
+	3.	VINCOLI DEL MONDO
 
 	[omesso]
 	[omesso]
@@ -59,4 +61,4 @@ Chiunque vi entri è invitato a farlo con attenzione, rispetto e amore verso ci�
 
 ⸻
 
-FINE DOCUMENTO (v0)
+FINE DOCUMENTO (v0.5)
