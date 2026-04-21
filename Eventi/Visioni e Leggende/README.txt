@@ -1,2 +1,7 @@
 Questa cartella è dedicata al primo evento della Notte Inquieta: una mostra delle pitture digitali.
-In questa cartella copertina e contenuti sono separate perché il documento complessivo è troppo pesante per GitHub
+
+Catalogo:
+[https://archive.org/details/visioni-e-leggende-di-giorgio-pozzi-gioppo-catalogo-impaginato-v-1-2017]
+
+Foto inaugurazione:
+[https://archive.org/details/visioni-e-leggende-inaugurazione-pubblica-web]
