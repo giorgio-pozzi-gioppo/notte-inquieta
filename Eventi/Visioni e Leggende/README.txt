@@ -5,3 +5,5 @@ Catalogo:
 
 Foto inaugurazione:
 [https://archive.org/details/visioni-e-leggende-inaugurazione-pubblica-web]
+
+I documenti caricati precedentemente sono stati rimossi e sostituiti da link a Internet Archive per chiarezza e comodità.
