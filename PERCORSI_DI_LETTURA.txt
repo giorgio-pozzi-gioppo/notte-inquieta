@@ -5,6 +5,12 @@ Non esiste un solo modo per entrare nella Notte Inquieta.
 Se vuoi solo leggere i contenuti in modo guidato, puoi visitare il sito:
 https://www.notteinquieta.it e poi la pagina Letture.
 
+https://notteinquieta.robadigioppo.workers.dev/ (mirror)
+
+https://mappa.robadigioppo.workers.dev/
+
+https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/
+
 Questo archivio è pensato per chi vuole esplorare più a fondo i testi, le loro connessioni e la loro evoluzione.
 
 Se non sai da dove iniziare, puoi seguire uno di questi percorsi.
