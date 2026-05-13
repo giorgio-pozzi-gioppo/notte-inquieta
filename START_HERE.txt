@@ -13,6 +13,9 @@ https://archive.org/details/@gioppo_notteinquieta
 
 3) Visitare il sito di Notte Inquieta per orientarti tra i contenuti e accedere ad altro materiale:
 https://www.notteinquieta.it
+https://notteinquieta.robadigioppo.workers.dev/ (mirror)
+https://mappa.robadigioppo.workers.dev/
+https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/
 
 Questo archivio è pensato per essere letto, copiato, preservato e attraversato.
 
