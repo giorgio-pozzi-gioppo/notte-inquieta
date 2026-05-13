@@ -20,8 +20,11 @@ COME ORIENTARSI
 Questo repository non è pensato come punto di ingresso alla lettura.
 Per leggere i contenuti in modo guidato, visita:
 https://www.notteinquieta.it
+
 https://notteinquieta.robadigioppo.workers.dev/ (mirror)
+
 https://mappa.robadigioppo.workers.dev/
+
 https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/
 
 Per iniziare:
