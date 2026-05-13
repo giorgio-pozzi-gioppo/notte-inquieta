@@ -18,3 +18,4 @@ https://www.gioppo.it
 https://pittura.robadigioppo.workers.dev/ (mirror sito ufficiale)
 
 https://mappa.robadigioppo.workers.dev/ (mappa delle risorse)
+https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/ (mappa delle risorse)
