@@ -23,9 +23,13 @@ https://www.notteinquieta.it
 
 https://notteinquieta.robadigioppo.workers.dev/ (mirror)
 
+C'è anche una mappa delle risorse che può esserti utile:
 https://mappa.robadigioppo.workers.dev/
 
-https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/
+https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/ (mirror)
+
+Se la mappa delle risorse non dovesse essere più disponibile, puoi ricostruirla da Internet Archive:
+https://archive.org/details/notteinquieta-mappa
 
 Per iniziare:
 → vedi START_HERE.txt
