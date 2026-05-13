@@ -20,6 +20,9 @@ https://mappa.robadigioppo.workers.dev/ (mappa risorse)
 
 https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/ (mappa risorse)
 
+Se la mappa delle risorse non dovesse essere più disponibile, potete ricostruirla da Internet Archive:
+https://archive.org/details/notteinquieta-mappa
+
 Questo archivio è pensato per essere letto, copiato, preservato e attraversato.
 
 Non è necessario comprendere tutto subito.
