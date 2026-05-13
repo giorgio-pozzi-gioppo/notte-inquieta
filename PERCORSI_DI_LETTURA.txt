@@ -7,9 +7,13 @@ https://www.notteinquieta.it e poi la pagina Letture.
 
 https://notteinquieta.robadigioppo.workers.dev/ (mirror)
 
+C'è anche una mappa delle risorse disponibili:
 https://mappa.robadigioppo.workers.dev/
 
-https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/
+https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/ (mirror)
+
+Se la mappa delle risorse non dovesse essere più disponibile, potete ricostruirla da Internet Archive:
+https://archive.org/details/notteinquieta-mappa
 
 Questo archivio è pensato per chi vuole esplorare più a fondo i testi, le loro connessioni e la loro evoluzione.
 
