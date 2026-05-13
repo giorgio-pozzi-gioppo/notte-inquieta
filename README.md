@@ -68,6 +68,12 @@ https://archive.org/details/@gioppo_notteinquieta
 Le pubblicazioni ancora incomplete sono reperibili nella pagina Letture:
 https://www.notteinquieta.it
 
+https://notteinquieta.robadigioppo.workers.dev/ (mirror)
+
+https://mappa.robadigioppo.workers.dev/
+
+https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/
+
 Questo repository contiene invece le versioni sorgente complete (.txt) e la struttura viva del progetto.
 
 
