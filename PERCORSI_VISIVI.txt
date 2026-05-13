@@ -12,4 +12,9 @@ Altri contenuti visivi potranno essere aggiunti nel tempo.
 
 Per una visione più ampia del progetto, puoi visitare:
 https://www.notteinquieta.it
+https://notteinquieta.robadigioppo.workers.dev/ (mirror sito ufficiale)
+
 https://www.gioppo.it
+https://pittura.robadigioppo.workers.dev/ (mirror sito ufficiale)
+
+https://mappa.robadigioppo.workers.dev/ (mappa delle risorse)
