@@ -22,4 +22,10 @@ La struttura sorgente è ospitata su GitHub.
 Per una visione complessiva del progetto:
 https://www.notteinquieta.it
 
+https://notteinquieta.robadigioppo.workers.dev/ (mirror sito ufficiale)
+
+https://mappa.robadigioppo.workers.dev/ (mappa risorse)
+
+https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/ (mappa risorse)
+
 Giorgio Pozzi in arte Gioppo
