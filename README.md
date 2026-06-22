@@ -3,7 +3,7 @@ NOTTE INQUIETA
 Archivio testuale del progetto narrativo creato da Giorgio Pozzi (Gioppo).
 
 Questo repository contiene i testi sorgente dell’universo narrativo Notte Inquieta:
-opere teatrali, racconti in frammenti e documenti di struttura del mondo.
+opere teatrali, racconti in frammenti e documenti di struttura del mondo. 
 
 I file .txt rappresentano le versioni sorgente dei testi.
 I PDF allegati contengono invece le versioni canoniche impaginate,
