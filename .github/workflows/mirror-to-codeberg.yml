@@ -21,5 +21,5 @@ jobs:
           CODEBERG_TOKEN: ${{ secrets.CODEBERG_TOKEN }}
         run: |
           git remote add codeberg https://Gioppo:${CODEBERG_TOKEN}@codeberg.org/Gioppo/notte-inquieta.git
-          git push --force --prune codeberg refs/remotes/origin/*:refs/heads/*
-          git push --force --prune codeberg --tags
+          git push codeberg HEAD:main
+          git push codeberg --tags
