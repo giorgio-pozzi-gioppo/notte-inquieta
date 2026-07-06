@@ -7,6 +7,25 @@ non lasciare che Notte Inquieta scompaia.
 I testi contenuti qui sono versioni sorgente delle opere del progetto.
 Possono essere letti, condivisi, studiati e rielaborati nel rispetto della licenza.
 
+Ma questo archivio non conserva soltanto dei testi.
+
+Conserva un modo di concepire la narrativa, la memoria e la permanenza delle opere nel tempo.
+
+Per questo ogni scelta, narrativa, editoriale o tecnologica, cerca di seguire alcuni principi fondamentali.
+
+* Resilienza — costruire qualcosa che possa sopravvivere al tempo, ai cambiamenti e alle piattaforme.
+* Memoria — conservare, collegare e valorizzare ciò che esiste già.
+* Lentezza — privilegiare la riflessione rispetto alla velocità.
+* Profondità — cercare significato invece di rumore.
+* Indipendenza — mantenere il controllo delle opere e ridurre la dipendenza da piattaforme e algoritmi.
+* Sperimentazione — esplorare nuove possibilità quando aggiungono un valore reale al progetto.
+
+La tecnologia non è il fine.
+
+È uno degli strumenti attraverso cui questi principi prendono forma.
+
+⸻
+
 Questo mondo non è chiuso.
 Può essere attraversato.
 
@@ -17,15 +36,28 @@ e con rispetto verso ciò che esiste già.
 Se questo archivio verrà copiato, duplicato o trasformato,
 allora avrà fatto il suo lavoro.
 
+⸻
+
 Le versioni ufficiali sono disponibili su Internet Archive.
+
 La struttura sorgente è ospitata su GitHub.
+
 Per una visione complessiva del progetto:
+
 https://www.notteinquieta.it
 
-https://notteinquieta.robadigioppo.workers.dev/ (mirror sito ufficiale)
+Mirror del sito ufficiale:
 
-https://mappa.robadigioppo.workers.dev/ (mappa risorse)
+https://notteinquieta.robadigioppo.workers.dev/
 
-https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/ (mappa risorse)
+Mappa delle risorse:
 
-Giorgio Pozzi in arte Gioppo
+https://mappa.robadigioppo.workers.dev/
+
+Mirror della mappa:
+
+https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/
+
+⸻
+
+Giorgio Pozzi (Gioppo)
