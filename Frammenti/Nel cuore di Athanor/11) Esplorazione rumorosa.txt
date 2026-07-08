@@ -1,0 +1,27 @@
+11) Primi passi nel laboratorio
+
+Registro // Programma Sviluppo e Supporto 02 Nota 47-M650-S09
+Stato: in test parallelo
+Aryes sta prendendo confidenza col corpo provvisorio esplorando le zone consentite.
+Un esperimento fallito ha raggiunto un livello critico tale da essere notificato anche a lui. Non era previsto. Il reparto dei test deve essere più prudente.
+
+Nota: temo che questo episodio aumenterà la sua curiosità.
+
+Aryes procedeva lento lungo un corridoio del laboratorio. Aveva fatto più volte il tragitto dal deposito dei droni fino alla porta di accesso dei laboratori sperimentali e ritorno. Girava ancora goffamente, ma stava migliorando. Soprattutto, non avvertiva alcuna fatica e aveva tutto il tempo del mondo.
+Finalmente, spostandosi da una stanza all’altra, poteva farsi una mappa mentale più accurata della struttura. Ad esempio, poteva vedere tutti i passaggi a lui preclusi che non comparivano nel suo schema della sala controllo. Non c’erano sorprese rilevanti, ma i passaggi celati erano molti.
+Il laboratorio era quasi tutto silenzioso, tranne una zona più vicina alle sale dedicate alla gestione dell’energia, dove si poteva sentire chiaramente il rumore di grandi macchinari al lavoro. Alcuni corridoi avevano delle strane finestre che davano su uno spazio violaceo, probabilmente uno spazio interno alla struttura, ma Aryes trovava difficile guardare fuori perché erano molto in alto e non c’era nulla su cui salire o arrampicarsi. Del resto, era tutto molto pulito e ordinato. Ogni tanto passava qualche robot specializzato che lo ignorava fino all’ultimo per poi evitarlo, quindi non aveva mai rischiato una collisione nonostante la goffaggine iniziale.
+“Rilevo ottimi dati, stai migliorando, tutto bene?” L’icona di Numero 2 riapparve a lato del suo campo visivo.
+“Sì, sto occupando il tempo così. Non è esattamente divertente, ma almeno è una cosa nuova che mi ricorda i tempi in cui ero ancora me stesso.”
+“Nostalgia?”
+“Beh, un po’ sì, sarei un bugiardo a negarlo. Però non mi lamento.”
+“Va bene, torno alle operazioni. Se hai bisogno chiama.”
+Aryes continuò a camminare entrando di nuovo nel deposito dei droni. Accanto al supporto che ospitava il suo attuale corpo provvisorio, c’erano i droni che, secondo Numero 2, avevano recuperato i suoi resti dopo lo scontro con Sototh. Lì guardò per un po’ tornando a pensare a quanto era successo. Sototh lo aveva battuto ed era ancora là fuori da qualche parte. E poi quell’esperimento fallito. Numero 2 non si aspettava che avrebbero avvisato anche lui dell’incidente, era stato palese. Era più grave del previsto o c’era stato qualche problema di configurazione? Oppure qualcuno stava cercando di fargli sapere qualcosa. Magari qualcuno dei nove. In fondo avevano accettato molte sue richieste senza battere ciglio o quasi. Tutti tranne uno. Solo i rapporti con l’esterno erano ancora un tabù. Però Numero 2 aveva detto che il problema era stato letteralmente espulso da Athanor, quindi non era così impossibile avere a che fare con il mondo esterno. Se qualcosa era uscito, in qualche modo qualcos’altro poteva entrare.
+Uscì di nuovo dal deposito dei droni e prese il corridoio per l’ennesima volta. Avrebbe imparato a muoversi alla perfezione, non importava quanto tempo avrebbe dovuto fare avanti e indietro.
+Guardò in alto un pannello che nascondeva qualcosa di tecnico. Un drone esapode lo superò sul soffitto andando veloce verso una destinazione ignota.
+D’improvviso il suo campo visivo tornò a inquadrare la solita sala controllo: non era più nel robot.
+“Cosa è successo?” chiese Numero 2 ricomparendo di lato.
+“Non lo so. Qualcosa non sta funzionando.”
+“Si è verificato un problema di connessione. Adesso ti riaggancio.”
+Improvvisamente tornò nel robot accasciato a terra lungo il corridoio.
+“Scusami, evidentemente ci sono ancora dei problemi nel codice di controllo. È abbastanza normale nella fase di test. Questi allenamenti non sono solo per te, ma per tutta l’infrastruttura che c’è dietro. Avvio un debug straordinario.”
+“Grazie Numero 2”
