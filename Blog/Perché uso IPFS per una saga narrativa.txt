@@ -1,0 +1,39 @@
+Perché uso IPFS per una saga narrativa
+
+Se avete letto gli articoli precedenti, sapete già che negli ultimi mesi una parte importante del mio lavoro non è stata soltanto scrivere. È stata anche capire come evitare che tutto questo possa andare perduto.
+
+Internet Archive è stato un primo passo importante.
+
+Ma non è stata affatto la risposta definitiva, perché, come spesso accade, una domanda tira l’altra.
+
+Se un archivio è importante, cosa succede se anche quell’archivio un giorno dovesse diventare irraggiungibile?
+Internet Archive è un’istituzione del web, è infinitamente più stabile del mio sito, ma resisterà alle trasformazioni del mondo?
+Anche le realtà più solide possono attraversare momenti difficili. E se c’è una cosa che Internet mi ha insegnato è che nessuna piattaforma dovrebbe essere considerata eterna.
+
+Non è pessimismo. È il modo in cui ormai mi trovo a ragionare quando costruisco qualcosa destinato, almeno nelle mie intenzioni, a durare davvero molti anni.
+
+Forse serviva anche qualcos’altro, da affiancare all’archivio ufficiale. Così mi sono avvicinato a IPFS.
+
+Per chi non lo conoscesse, IPFS è un sistema molto particolare per distribuire i file su Internet. Invece di identificare un file in base al luogo in cui si trova, lo identifica in base al suo contenuto. 
+
+Quindi, invece di affidarsi a un unico server, permette a uno stesso contenuto di essere disponibile attraverso più copie distribuite nella rete.
+
+È un modo completamente diverso di pensare ai documenti.
+
+Quando ho capito questa differenza, adottare IPFS mi è sembrato quasi una naturale evoluzione del percorso che avevo già iniziato con l’archiviazione in PDF-A.
+
+Naturalmente IPFS non sostituisce il sito ufficiale o Internet Archive. Li affianca.
+
+Ognuno svolge un compito diverso: il sito rimane la casa della Notte Inquieta; Internet Archive conserva le pubblicazioni in uno spazio più sicuro. IPFS permette che delle copie delle pubblicazioni siano disponibili anche altrove, aggiungendo un ulteriore livello di resilienza.
+
+Alla fine è un modo per rendere il progetto un po’ meno dipendente da un singolo luogo.
+
+Non sto cercando di prevedere il futuro. Sto semplicemente cercando di prepararmi all’eventualità che un giorno qualcosa cambi. Del resto, l’unica costante del mondo è proprio il cambiamento.
+
+Un giorno tutto questo servirà davvero? Forse no.
+Forse nessuno userà mai quei collegamenti.
+
+Costruire un’opera significa anche pensare agli scenari che speri di non dover mai affrontare. Ed è probabilmente questo il motivo per cui continuo ad aggiungere un nuovo livello di protezione ogni volta che ne scopro uno.
+
+Chiamatela ossessione o affetto per quello che creo, ormai è un obiettivo del progetto stesso.
+Rendere la Notte Inquieta un po’ più difficile da far scomparire.

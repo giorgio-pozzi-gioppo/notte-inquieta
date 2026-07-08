@@ -1,0 +1,42 @@
+# Perché uso GitHub per una saga narrativa
+
+Se qualche anno fa qualcuno mi avesse detto che avrei usato GitHub per archiviare una saga narrativa, probabilmente avrei pensato a uno scherzo.
+
+Per chi non la conosce, GitHub è una piattaforma americana (di Microsoft) usata soprattutto da programmatori e sviluppatori.
+Nasce per ospitare codice sorgente, documentazione tecnica e interi progetti software.
+È stata casa per il software libero per anni, anche prima che Microsoft la comprasse. È il punto di riferimento online per il codice sorgente di tantissimi progetti software di tutto il mondo.
+
+Eppure oggi una parte importante di Notte Inquieta vive proprio lì.
+
+La cosa curiosa è che questa scelta non nasce da un desiderio di “smanettare” con l’informatica, ma quasi dal problema opposto:
+capire come conservare e organizzare meglio qualcosa di estremamente fragile come una grande opera narrativa online.
+Ricordate? Ne avevamo parlato anche qui.
+
+Per molto tempo ho pensato alle storie come a qualcosa da pubblicare.
+Poi però, lavorando per anni a un universo narrativo oggi distribuito su più piattaforme, ho iniziato a rendermi conto che stava emergendo un altro problema:
+come gestire il sorgente stesso dell’opera.
+Perché a un certo punto non esiste più soltanto “la storia”, ma anche tutto quello che è stato realizzato a lato per metterla in piedi.
+
+Esistono versioni differenti dei testi, piccoli frammenti, documenti incompleti, idee future, materiale di riferimento... tutte cose che non finiscono pubblicate ma sono altrettanto importanti per l’autore e per l’opera stessa.
+
+E improvvisamente il problema assomiglia molto più a quello di un archivio vivente che a quello di un semplice manoscritto.
+
+GitHub, stranamente, funziona molto bene in questo scenario, perché non tratta i testi come oggetti statici. Li tratta come qualcosa che evolve nel tempo. Ogni modifica viene registrata e le versioni precedenti restano pure consultabili.
+I file possono essere duplicati facilmente.
+L’intera struttura può essere scaricata e replicata altrove.
+
+Più ci lavoravo, più mi rendevo conto che stavo usando strumenti pensati per il software per costruire qualcosa che software non è. E tutto sommato per me questo è affascinante e ha un suo senso.
+
+GitHub dà una sensazione completamente diversa dal solito Internet dove tutto scorre e sparisce in un attimo. Sembra quasi un laboratorio.
+Un luogo dove i testi non vengono soltanto mostrati, ma conservati, revisionati, collegati tra loro.
+Dove il “dietro le quinte” dell’opera può continuare a esistere senza dover essere trasformato immediatamente in contenuto da pubblicare e vendere.
+
+Forse è anche per questo che negli ultimi mesi ho iniziato a pensare sempre meno a Notte Inquieta come a una semplice saga narrativa online. Ormai è un vero e proprio ecosistema di contenuti che non teme di fare uso di strumenti presi da altri ambiti per funzionare meglio. E uno di questi strumenti è proprio GitHub che in questo ecosistema ha trovato posto in modo quasi naturale.
+
+Non perché voglia trasformare la narrativa in tecnologia.
+Ma perché mi permette di trattare i testi con il rispetto e la stabilità che normalmente riserviamo ai progetti importanti.
+
+Tra l’altro GitHub è ormai una sorta di istituzione, una infrastruttura di riferimento della cultura digitale contemporanea.
+Anche per questo usarlo come archivio per i materiali più importanti della saga mi è sembrata una scelta naturale. Quello della resistenza nel tempo è infatti un altro problema che, per le pubblicazioni canoniche avevo già affrontato scegliendo l’archiviazione in PDF su Internet Archive. Con GitHub lo affronto in modo analogo ma partendo invece dalle fondamenta.
+
+Forse è strano usare strumenti da sviluppatore per raccontare storie. Ma per me e per il mio progetto è semplicemente perfetto.

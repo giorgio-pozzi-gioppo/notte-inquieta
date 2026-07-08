@@ -1,0 +1,55 @@
+Perché uso Obsidian per una saga narrativa
+
+Se avete letto gli articoli precedenti (Mondi grandi e stratificati - GitHub - Internet Archive), sapete già che per me, inventare nuove idee non è mai stato un problema.
+
+Il problema è riuscire a ricordarsele tutte.
+
+Infatti, ogni nuova idea narrativa, prima di essere presa seriamente in considerazione e aggiunta al progetto, deve essere valutata, masticata quasi, in relazione a tutto quello che è già stato scritto e rispetto alle linee guida di tutto il progetto.
+
+Con la crescita del progetto mi sono reso conto che il rischio più concreto era perdere l’orientamento e di conseguenza la coerenza.
+
+A un certo punto, aggiungere un nuovo pezzo alla saga, richiedeva sempre più tempo passato a verificare informazioni.
+Tra l’altro, magari ricordavo che una certa idea esisteva e sapevo di averla scritta.
+Ma non ricordavo più dove.
+
+Potrei dirvi che tutta la saga ce l’avevo in testa e che in realtà facevo tutto a mente (e in parte è vero), ma il rischio di cadere in contraddizione era sempre più concreto.
+
+È successo due volte a dire la verità. Fortunatamente prima della pubblicazione, ma comunque troppo tardi rispetto ai controlli che faccio sempre alla prima stesura.
+Non doveva ricapitare.
+
+Per anni ho provato a risolvere il problema con una meticolosa organizzazione in cartelle e con un gigantesco file di riferimento di cui poi ho perso la password di accesso (no comment).
+
+Mi serviva qualcosa di diverso, ma non avevo alcuna voglia di affrontare per l’ennesima volta un enorme lavoro di riorganizzazione dei contenuti. Così ho temporeggiato. Poi è arrivata l’IA e il tempo necessario per usare con profitto Obsidian è crollato.
+
+È stato in quel momento che ho iniziato a usarlo.
+
+Per chi non lo conoscesse, Obsidian è un’applicazione per prendere appunti e organizzare informazioni attraverso collegamenti tra documenti. Una sorta di ipertesto facile da creare e molto versatile.
+
+Grazie all’IA, potevo popolare Obsidian senza doverci passare centinaia di ore. Bastava che dessi i testi già pubblicati in pasto all’IA e che facessi una veloce supervisione.
+
+Così, Obsidian è diventato un luogo dove i contenuti distillati dai miei scritti possono dialogare tra loro.
+
+I personaggi si collegano ai racconti che si collegano a una città che si collega a un altro racconto e così via.
+Improvvisamente quello che prima era un insieme di documenti separati ha cominciato ad assomigliare a un mondo di informazioni molto facile da consultare.
+
+Avevo trovato la mia mappa per orientarmi nei contenuti già scritti. Solo per conferma ovviamente (vi ho già detto che ho tutto in mente, giusto?)
+
+Ci tengo a sottolineare che il Vault della Notte Inquieta non contiene tutto ciò che ho scritto, ma solo quanto è già stato pubblicato.
+
+Potrebbe sembrare una scelta strana, ma è solo a quel livello che la coerenza deve essere protetta. Sotto al cofano, nella amalgama creativa della mia testa, ho bisogno di più libertà, finché non esce un contenuto che può essere seriamente preso in considerazione.
+
+Proprio a quel punto, entusiasta della nuova creazione e stanco per l’impegno profuso, invece di perdermi in un mare di appunti e bozze, ho la mappa di ciò che esiste davvero all’interno del canone pubblico.
+
+Una volta completato il lavoro, mi sono accorto quasi subito della differenza. La verifica era quasi istantanea.
+
+In un certo senso è come osservare una città dall’alto invece che camminare continuamente tra le sue strade.
+
+Continui a vedere gli stessi edifici, ma finalmente riesci a capire come sono collegati tra loro.
+
+Ed è probabilmente questa la ragione per cui continuo a usarlo.
+
+Oggi considero il Vault della Notte Inquieta una delle infrastrutture più importanti del progetto.
+
+Non è solo uno strumento utile in fase di creazione dei contenuti, ma anche un’istantanea di dove è arrivato il progetto, delle sue caratteristiche, della sua forma.\
+Un punto da cui è possibile ridare vita a questo mondo senza ferirlo, ancora e ancora.
+

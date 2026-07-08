@@ -1,0 +1,35 @@
+Perché ho scelto Creative Commons Attribution Non Commercial
+
+Quando si pubblica qualcosa online, questa arriva potenzialmente a tutti e, a un certo punto (si spera prima che dopo), ti chiedi cosa possano farci gli altri con quello che hai creato.
+
+Per molto tempo non ci ho pensato davvero. Mi sono limitato a un prudente “Tutti i diritti riservati.”
+
+Una scelta forse un po’ banale, ma prudente. Molti autori scelgono questa strada e non c’è nulla di sbagliato in ciò. Ma pensandoci bene, ho capito che non era la strada giusta per me.
+
+Notte Inquieta non è nata come progetto commerciale. Il mio obiettivo non è fare soldi. Notte Inquieta è un progetto artistico che racconta qualcosa di me e cerca un suo pubblico. Non ha mai voluto essere mainstream.
+Questo avrebbe avuto la sua influenza anche nella scelta della licenza.
+
+Negli ultimi anni ho dedicato molto tempo a capire come raggiungere il mio pubblico e come mettere al sicuro il progetto e, a un certo punto, mi sono reso conto che proprio la licenza poteva giocare a mio sfavore.
+
+Se una domanda per me importante è “Come faccio a evitare che questo lavoro sparisca?”, non posso evitare di chiedermi anche “Come faccio a permettere alle persone di condividerlo?”
+
+Alla fine cos’è che voglio? Che i racconti siano reperibili, che possano essere condivisi, duplicati, che possano essere citati... voglio che circolino.
+
+Allo stesso tempo, però, la Notte Inquieta la sento più che mai una mia creazione. Vorrei essere riconosciuto come il creatore della saga. E non voglio che qualcuno possa prendere qualcosa di scritto da me e rivenderlo come fosse suo. 
+
+Per questo, dopo aver soppesato la cosa per un po’, ho scelto la licenza Creative Commons Attribution Non Commercial.
+
+In pratica questo significa che puoi copiarti l’opera, condividerla e redistribuirla, ma devi citare l’autore e non puoi utilizzarla commercialmente senza il mio consenso.
+
+Credo che sia un buon equilibrio tra il mio desiderio di lasciare qualcosa al mondo, ma senza perderne completamente il controllo.
+
+Questa scelta si è poi riflessa in tutto il progetto.
+Se archivio la saga su Internet Archive, la replico su GitHub, la distribuisco su siti diversi, la carico su IPFS (ve ne parlerò presto), che senso avrebbe poi non permettere che venga condivisa liberamente?
+La licenza è semplicemente un altro strumento che aiuta il progetto a crescere e sopravvivere.
+E se i miei racconti fanno pietà al massimo sarà un bell’esperimento di narrativa resiliente.
+
+Voglio che il progetto circoli, venga letto e possa raggiungere persone che non incontrerò mai.
+
+Chiedo solo che venga indicato l’autore e che nessuno provi a trasformarlo in un’attività commerciale alle mie spalle. Per il resto, più viaggia e meglio è.
+
+Mi piace pensare che l’arte debba essere un bene condiviso, che possa circolare nella società e raggiungere chiunque sia interessato a incontrarla. Poi, per carità, se si riesce a guadagnarci, tanto meglio, ma non è quello il suo obiettivo.

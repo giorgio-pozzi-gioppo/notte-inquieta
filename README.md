@@ -33,6 +33,8 @@ https://mappa.robadigioppo.workers.dev/
 
 https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/ (mirror)
 
+https://gioppo.codeberg.page/notteinquieta-mappa/ (mirror europeo)
+
 Se la mappa delle risorse non dovesse essere più disponibile, puoi ricostruirla da Internet Archive:
 https://archive.org/details/notteinquieta-mappa
 
@@ -82,6 +84,8 @@ https://notteinquieta.robadigioppo.workers.dev/ (mirror)
 https://mappa.robadigioppo.workers.dev/
 
 https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/
+
+https://gioppo.codeberg.page/notteinquieta-mappa/
 
 Questo repository contiene invece le versioni sorgente complete (.txt) e la struttura viva del progetto.
 

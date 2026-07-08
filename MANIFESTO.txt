@@ -58,6 +58,10 @@ Mirror della mappa:
 
 https://giorgio-pozzi-gioppo.github.io/notteinquieta-mappa/
 
+Mirror europeo della mappa:
+
+https://gioppo.codeberg.page/notteinquieta-mappa/
+
 ⸻
 
 Giorgio Pozzi (Gioppo)

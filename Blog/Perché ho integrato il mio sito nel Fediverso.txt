@@ -1,0 +1,46 @@
+Perché ho integrato il mio sito nel Fediverso 
+
+Leggendo gli articoli precedenti, avrete capito che negli ultimi tempi mi sto interessando molto alla resilienza dei contenuti. Ma non mi sono fermato lì. Ho pensato anche alla distribuzione sulla Rete.
+
+Per anni ho pubblicato sul sito e poi condiviso sui social, sperando che l’algoritmo apprezzasse il contenuto e lo mostrasse a più persone possibili.
+Ho sempre fatto questo, e continuo anche a farlo perché funziona. Però non ho potuto fare a meno di interrogarmi un po’ su questo meccanismo.
+
+I contenuti sono sul mio sito, ma la loro diffusione dipende completamente da piattaforme esterne, dai loro algoritmi, dai loro interessi.
+Un modello legittimo, ma io mi sono chiesto: “È davvero l’unico modo possibile?”
+
+La risposta, sorprendentemente, era no.
+
+Il Fediverso
+
+Avevo già sentito parlare del Fediverso, perché sono un entusiasta della tecnologia e vado sempre a provare le ultime novità, ma non avevo mai approfondito la questione quanto meritava.
+
+Il Fediverso è una rete di social network indipendenti che non appartengono a un’unica azienda e possono comunicare tra loro grazie a uno standard aperto (ActivityPub). Veicolano contenuti attraverso uno standard aperto, senza dipendere da un’unica azienda che controlli l’intera rete.
+
+Le applicazioni del Fediverso come Mastodon non hanno un algoritmo. I post che vedi scorrono in base all'ora di pubblicazione e in base alle persone e gli hashtag che segui. 
+Già solo per questo ho sentito che valeva la pena esserci. 
+Ma per Notte Inquieta la questione era ancora più interessante.
+
+Infatti chiunque può federare il proprio sito per collegarlo a questa rete di server indipendenti in modo che un utente su Mastodon possa visualizzare e commentare il post di un blog ospitato su un altro server.
+
+In pratica, invece di pubblicare un link su un social sperando che venga mostrato dall’algoritmo, è il mio stesso sito a diventare parte della rete del Fediverso e a rendersi raggiungibile su questa rete a chiunque sia interessato al mio profilo o agli hashtag che inserisco nei miei post. Ogni nuovo articolo verrà distribuito automaticamente ai lettori che hanno deciso di seguire direttamente il progetto e sarà commentabile e condivisibile da tutti gli utenti del Fediverso.
+
+Ma le differenze non finiscono qui. Una grossa differenza rispetto ai social network proprietari è che i siti federati possiedono i contenuti e il pubblico che li segue. Usando un social network tradizionale, si è ospiti e i dati appartengono all'azienda.
+Nel Fediverso, invece, addirittura se per qualche motivo il tuo server dovesse chiudere, puoi spostare il tuo profilo mantenendo i tuoi follower.
+
+La prima volta che ho pubblicato un articolo, dopo aver federato il sito, quando l’ho visto comparire automaticamente nel Fediverso mi sono reso conto che il sito non era più soltanto un sito da visitare. Era diventato parte di una rete.
+
+Notte Inquieta nel Fediverso
+
+Riassumendo, ora che ho federato il mio sito sul Fediverso, il mio sito non è più soltanto un luogo da visitare, ma partecipa attivamente alla distribuzione dei contenuti in una vasta rete.
+
+Quello che mi offre il Fediverso è quindi un modo diverso di immaginare il rapporto tra autore e lettore. Un rapporto più diretto e aperto, che non passa per i diffusissimi algoritmi proprietari delle multinazionali.
+
+Ripensandoci, è perfettamente coerente con il resto del progetto. Se permetto la condivisione, archivio, replico, distribuisco, ha senso anche che il sito possa comunicare direttamente con altre piattaforme.
+
+Ovviamente questo non significa che abbandonerò gli altri social network. Il Fediverso non sostituisce i social, come GitHub e IPFS non sostituiscono Internet Archive.
+Ogni pezzo aggiunge un livello.
+
+Conclusione
+
+Non so se il Fediverso diventerà mai il modo principale con cui le persone scopriranno la Notte Inquieta, ma ogni volta che aggiungo un nuovo canale aperto, compatibile e indipendente, ho la sensazione di rendere il progetto un po’ meno legato alle decisioni di qualcun altro.
+E, ormai lo avrete capito, è una direzione che mi piace seguire.
