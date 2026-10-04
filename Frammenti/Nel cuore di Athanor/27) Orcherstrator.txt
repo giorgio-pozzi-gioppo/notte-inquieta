@@ -1,0 +1,49 @@
+27) Orchestrator 
+
+Registro // Programma Supervisione Missione Generale 03
+Nome in codice Operations
+Nota 48-A612-L50
+Stato: ripristino in corso.
+Il ripristino di Support e Gateway procede senza intoppi. Architect sta preparando delle trappole per evitare che l’intelligenza artificiale parassita possa sfuggire alla completa cancellazione. Oltre ai parassiti software, abbiamo cominciato a rilevare anche dei parassiti hardware che è meglio rimuovere prima possibile. Se ne occuperà Orchestrator e parteciperà anche Aryes per tenersi impegnato. Meglio così, un pensiero in meno per me.
+Flux non segnala nuove anomalie sul fronte della produzione di energia, ma fa presente che la gestione dei rifiuti è sotto forte stress dopo la fine dell’invasione.
+Finalmente gli esperimenti di Specialist e soprattutto di Forge stanno raggiungendo traguardi che aspettavamo da tempo. Possiamo provare a integrare gli artefatti di Aryes a un corpo sperimentale biocompatibile. Replicare le caratteristiche della chimera è stata una sfida senza precedenti.
+
+
+“Che cosa cercheremo esattamente?” Aryes fece muovere la lancia laser su e giù. “Dovrò usare questo affare?”
+“Non sappiamo ancora cosa cerchiamo esattamente. Qualcosa che emette segnali di disturbo che spengono le telecamere e i sensori.”
+“Che strana questa cosa dei segnali di disturbo, dici che io mi potrò avvicinare senza risentirne?”
+“Bella domanda. Forge non si è limitato ad installarti la lancia. Ha anche inserito delle gabbie di protezione che dovrebbero renderti immune a queste onde, e dei ripetitori che allo stesso tempo potenziano il collegamento al tuo nucleo.”
+“Ripetitori?”
+“Sì, sono dei piccoli droni che consolidano il segnale attorno a te. Li abbiamo già testati in diverse applicazioni. Funzionano.”
+“Avete pensato a tutto, speriamo...”
+“Non posso assicurarti che funzionerà finché non incontreremo quei parassiti. Però possiamo essere ottimisti. Forge sa il fatto suo e credo si sia impegnato a prepararti per questo.”
+“E tu invece? Ti sei fatto avanti per coinvolgermi, ma non sarò un peso per te?”
+“Al contrario. Ero davvero molto curioso di conoscerti. Numero 2... ehm intendevo Support, ti teneva tutto per sé. Non hai idea di quanto fosse geloso del suo incarico e del rapporto con te.”
+“Geloso? Non credevo che delle intelligenze artificiali potessero essere gelose.”
+“Lo siamo, lo siamo. A modo nostro ovviamente. Comunque io non faccio che organizzare il lavoro di settori tecnici e squadroni di droni. Un robot in più non sarà un problema, anzi, con te posso avere un rapporto più interessante di quello che avrei con i soliti droni, quindi mi divertirò di più.”
+“Divertirai? Sei proprio strano Orchestrator.”
+“Perché cerco di divertirmi? Credo che sia il modo migliore di lavorare.”
+“Concordo, solo che non mi sarei aspettato di sentirlo dire da un’intelligenza artificiale.”
+“Lo sapevo che Support è un gran noioso. Ti ha fatto credere che noi fossimo tutti compassati e quadrati, ma non è così. Ognuno può regolarsi come preferisce. Io ad esempio non sono affatto noioso e sono bravo nel mio lavoro.”
+“Bene a sapersi. È proprio vero che c’è sempre da imparare.”
+“A proposito di imparare, tu non sai quanto sono curioso. Tu sei stato fuori da Athanor per tutta la prima parte della tua vita. Chissà quante cose hai visto. Me le racconteresti?”
+“Se vuoi, ti posso raccontare qualcosa, ma non dovremmo andare a stanare i parassiti?”
+“Abbiamo ancora un po’ di tempo. I droni che verranno con noi devono ancora finire l’ultimo ciclo di ricarica.”
+“Allora chiedi pure.”
+“Da quello che ho capito, sei una specie di eroe. Tanto che Imperius ha creato Athanor per cercare di salvarti. Mi racconti?”
+“Sì volentieri, anche se mi sembra di parlare di un’altra vita. E forse è proprio così. Io e Shub ci siamo incontrati, credo per caso, e abbiamo scoperto di avere un nemico in comune e Imperius era al suo fianco.”
+“Shub! Nessuno chiama più così Diana da quando si è reincarnata. Tu eri un suo pupillo vero?”
+“Non sapevo del nuovo nome e che fosse reincarnata. Comunque sì, quando la incontrai nella Rete dei Cristalli finimmo per diventare molto amici.”
+“Cos’è la Rete dei Cristalli?”
+“È una ragnatela di mondi esterna al mondo in cui siamo adesso.”
+“Ah, parli del Giardino del Mezzo. Allora lo conosco. È dove siamo venuti a prenderti.”
+“Hai ragione, è lì che Sototh mi ha battuto.”
+“Abbiamo visto qualcosa di quello strano posto, prima che il mondo andasse in pezzi e fossimo costretti a disattivare i sensori esterni di Athanor. È da allora che non vediamo nulla.”
+“Il Cristallo è andato in pezzi?”
+“Sì, subito dopo la tua morte. Non sappiamo bene cosa sia successo, ma siamo stati travolti dal suo vorticoso collasso. I valori sono andati tutti fuori scala, non sappiamo se per un guasto o per cause esterne. Gateway non vuole più guardare fuori. È così noioso adesso.”
+“Mi dispiace, ero affezionato a questo cristallo. Era un bel mondo. Deve essere stato quel maledetto Sototh. Sono stato uno sciocco e l’ho sottovalutato come un principiante...”
+“Orchestrator, si può sapere cosa stai aspettando a partire con la missione?” tuonò Operations improvvisamente.
+“Scusa Capo. È tutto pronto! Partiamo subito!” fu la risposta.
+“Ma...” Aryes si trattenne.
+“Sei pronto Aryes? Partiamo!” lo incalzò Orchestrator.
+“Partiamo.”

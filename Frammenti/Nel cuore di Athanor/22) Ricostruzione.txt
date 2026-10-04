@@ -1,0 +1,50 @@
+22) Ricostruzione
+
+Registro // Programma Sviluppo e Supporto 02
+Nota 47-P343-S40
+Stato: ripristino in corso.
+La costruzione dei droni procede a rilento e guasti e anomalie sono ovunque, anche direttamente nel mio codice.
+Aryes invece sembra stare meglio di prima, probabilmente perché lo tengo impegnato. Questa è un’indicazione importante per quando la situazione di emergenza sarà rientrata.
+
+
+“Ormai è diverso tempo che giro per Athanor, ma ogni volta mi stupisco di quanto possa essere grande questo posto.” Aryes avanzava lungo un ampio corridoio che dava su diverse sale server. “Tutta questa roba serve per far funzionare il laboratorio?”
+“In realtà le stanze di questa sezione sono dedicate esclusivamente al mio funzionamento.”
+“Ah, quindi è come se fossi nella tua testa. Se staccassi qualche cavo qua e là daresti di matto?”
+“Dovresti impegnarti davvero molto per riuscire a fare dei danni rilevanti, però in teoria, sì.”
+“Non mi hai detto cosa cerchiamo oggi.”
+“In realtà non lo so neanche io con precisione.”
+“Cosa intendi?” 
+“Qualcosa impedisce la corretta connessione con le altre IA del Concilio. Riesco a raggiungerle solo per vie traverse in modo molto faticoso. Numero 4 ha detto che probabilmente qualcosa non va da queste parti, come se il problema fosse mio, ma rilevo troppi errori per riuscire a fare una diagnostica vera. Vedrai che troveremo qualcosa.”
+Svoltato l’angolo, Aryes si fermò. “Qualcosa tipo quello?”
+Numero 2 si collegò agli occhi del robot. “Esattamente.”
+La porta di una sala server era divelta e dall’interno si sentivano crepitii e altri strani suoni elettrici.
+“Sembra che, senza che me ne accorgessi, qualcuno sia riuscito a fare dei danni laggiù.”
+“Procedi con prudenza. Non so come potrebbe reagire il tuo robot a una scarica elettrica.”
+“Sai sempre rassicurarmi. Pensa che io invece stavo pensando a chi può aver fatto tutto quello. Le porte sono massicce, immagino che ci voglia una gran forza per strapparle via.”
+“Affermativo. Non posso escludere che qualcosa sia dentro la stanza, tutte le telecamere sono in avaria e i miei sottoprogrammi non segnalavano nessuna anomalia in zona. Non capisco come sia possibile.”
+“Ormai non mi stupisco più di nulla. Andiamo a vedere. Male che vada fanno a pezzi il mio robot, ma almeno sapremo qualcosa di più.”
+Aryes avanzò scavalcando alcuni frammenti di vetro e metallo sparsi sul pavimento. Arrivò davanti alla porta e si fermò. 
+“Devo attivare la visione notturna.”
+La sala era devastata. Gli armadi all’interno non erano molti, ma erano stati completamente divelti e schiacciati contro le pareti. C’erano cavi tirati e strappati un po’ ovunque, alcuni ancora alimentati e sfrigolanti. Un drone esapode capovolto era inerte in un angolo. Pavimento e pareti erano graffiati profondamente, come se qualcosa si fosse agitato al suo interno. Il soffitto era completamente sfondato verso il basso e dava su uno spazio buio.
+“Numero 2, che diavolo succede qui?”
+“Non lo so, ma torna subito fuori di lì. Non mi piace quello che ho visto.”
+Aryes si girò lentamente, guardandosi attorno. Non sembrava esserci nessuno, ma il buio sopra la sua testa era inquietante. 
+“Cosa c’è qua sopra?”
+“Lo spazio vuoto che hai visto quando siamo andati a ripristinare le linee di produzione che sto usando per i droni.”
+“Ah, quindi lassù è vuoto perché manca la parte che è stata espulsa.” Aryes arrivò nuovamente nel corridoio, accecato dalla luce.
+“Affermativo.”
+“Se qualcosa è uscito... forse qualcosa potrebbe essere entrato?”
+“Teoricamente è possibile, ma quante probabilità ci sono? E poi lo avrei rilevato.”
+“Ma se non sapevi nemmeno di come fosse ridotta questa stanza. Numero 2, i tuoi dati non sono affidabili.”
+“Devo elaborare.”
+“Forse qualcosa si aggira per Athanor. Magari il nostro famoso invasore.”
+Aryes guardò ai due capi del corridoio. Nell’aria solo crepitii provenienti dalla stanza e qualche normale rumore ovattato.
+“Questo corpo non è armato, vero?”
+Nessuna risposta.
+“Numero 2, mi senti?”
+“Ho aggiornato Numero 4 sulle nostre scoperte. Ha detto che lui e Numero 5 realizzeranno l’infrastruttura necessaria a rimpiazzare quella distrutta. Comunque no, non sei armato.”
+“Non credi che sia il caso di porre rimedio a questa mancanza?”
+“Non sappiamo con cosa abbiamo a che fare, non saprei come equipaggiarti.”
+“Beh, tira a indovinare!” 
+“Dai, rientra al laboratorio. Vediamo cosa si può fare.”
+

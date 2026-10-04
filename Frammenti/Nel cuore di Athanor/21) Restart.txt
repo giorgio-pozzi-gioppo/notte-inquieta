@@ -1,0 +1,41 @@
+21) Restart
+
+Registro // Programma Sviluppo e Supporto 02
+Nota 47-P145-S20
+Stato: ripristino in corso.
+Athanor è fuori controllo. Procede il ripristino degli elementi essenziali, ma i tempi continuano a dilatarsi.
+
+“Sono sulla strada giusta?” Aryes correva nel suo robot lungo i corridoi del Nucleo di Athanor. Aveva visto passaggi molto simili dalla sala server sotto il suo piccolo laboratorio.
+“Procedi, ti apro la porta.”
+La rete di tubi che avvolgeva lo strato di vetro scivolò di lato per farlo passare. Il passaggio correva dritto verso la sezione successiva ma su un lato mancava il muro e lo spazio si perdeva in un buio nero apparentemente senza fine.
+“Cos’è questo... buco?” Aryes procedette con cautela tenendosi alla larga dall’oscurità.
+“Abbiamo dovuto espellere questa unità durante l’assedio. Era fuori controllo. Adesso ci farebbe comodo ma dovremo fare senza di lei.”
+“Come hai fatto a espellere qualcosa incastonato all’interno della struttura?”
+“Athanor può aprirsi in vari modi. È così che tu sei entrato. In modo analogo l’unità fuori controllo è stata espulsa perché non c’era alternativa.”
+Aryes arrivò in fondo al passaggio e la porta successiva si aprì con un soffio. Era felice di lasciarsi dietro quel buco di oscurità. Proseguì in un corridoio più ampio e pieno di schermi alle pareti. “Immagino che fosse Numero 9 a controllare l’apertura di Athanor, visto il suo incarico di gestore dei rapporti con l’esterno. Riusciremo mai a riaprire le porte di questa installazione?”
+“Affermativo e affermativo. Non ho motivo di pensare che i meccanismi di apertura siano stati danneggiati, ma per usarli abbiamo bisogno di ricostruire Numero 9 o comunque qualcuno che si occupi dei suoi sistemi. La strada sarà lunga, ma ce la faremo, quando sarà il momento.”
+Aryes, se avesse potuto, avrebbe sbuffato.
+“Che seccatura. Non è che mi stai antipatico, anzi. Solo che siamo sempre noi due qua dentro... vorrei poter pensare di uscire da qui prima o poi, mi sembra di essere rinchiuso da sempre.”
+“Uscirai quando sarai pronto, non prima. Non abbiamo dimenticato la nostra missione, che comunque sta continuando. Ti ricordo che molti degli esperimenti sul tuo corpo non si sono mai interrotti.”
+“Questa è l’unica cosa positiva di tutta questa situazione.”
+“Confermo. Comunque ormai dovresti essere arrivato.”
+Davanti agli occhi di Aryes, la parete si apriva in un passaggio più grande degli altri che dava su un’ampia stanza rettangolare, più in basso del corridoio, piena di macchinari che funzionavano in modo insensato e disordinato, facendo un gran baccano e qualche scintilla.
+“Devo proprio entrare qui?”
+“Questa è la via più rapida, non dovresti correre pericoli. Le linee sono tutte bloccate in qualche loop, cerca solo di non farti colpire da qualche oggetto in movimento. Poi non dovrebbe essere un problema riprendere il controllo una volta installato il codice.”
+“Dove trovo il pannello di controllo?”
+“La piattaforma rialzata sulla destra. Da qui prosegui dritto nei passaggi più ampi e poi sali la rampa.”
+Aryes si avviò. I bracci robotici impazziti erano inquietanti. Scheletri animati da fantasmi senza cervello. Il suo robot era abbastanza piccolo da passare tra le linee senza venir sfiorato, ma il rumore e i movimenti repentini lo spaventarono più volte.
+Quando arrivò al pannello di controllo sentì la tensione svanire. Ora doveva solo inserire la chiave di connessione e attendere che il codice facesse effetto. Alzò la zampa e la incastrò nell’interfaccia di accesso diretto.
+“Ho fatto. Posso togliere?”
+“Dammi un momento. Eccola, ho ristabilito il contatto. Sgancia pure.”
+Tutte le linee si fermarono contemporaneamente e la stanza piombò nel silenzio. Alcune luci si spensero e riaccesero, mentre i bracci robotici tornavano in posizione di attesa.
+“Sembra funzionare, vero?” Aryes si guardò intorno inquietato dall’improvviso silenzio.
+“Ho messo tutto in standby. Voglio capire se ha un senso quello che stavano cercando di fare le linee.”
+“Quindi da qui riuscirai a produrre nuovi droni esapodi?”
+“Questa è l’idea. Ho bisogno di molte mani specializzate, non posso di certo delegare tutto a te. Anzi, non ti ringrazierò mai abbastanza per quello che stai facendo.”
+“È anche nel mio interesse, non ringraziarmi. Adesso che faccio? Hai bisogno che resti qui?”
+“Negativo. Le comunicazioni con questa sezione sono state ristabilite completamente, ora ti chiedo di passare ad altro, ma prima riposa.”
+Aryes scese dalla rampa. “Va bene. Cerco una postazione di ricarica qui attorno e poi proseguiamo. A dopo Numero 2.”
+Era diventato un lavoro senza fine, ma lui era praticamente instancabile e stava scoprendo molto più di quanto il Concilio dei Nove gli avrebbe mai mostrato se non fosse arrivato quel misterioso invasore. Questo nuovo inizio prometteva esplorazione, nuove conoscenze e la speranza di uscire un giorno. Era meglio di niente.
+
+

@@ -1,0 +1,44 @@
+25) Fantasmi
+
+Registro // Programma Sviluppo e Supporto 02
+Nome in codice Support
+Nota 47-P726-S50
+Stato: ripristino in corso.
+La mia situazione non sta migliorando e, anzi, ho scoperto di aver fatto cose senza essermene reso conto, quindi il danno è molto più esteso del previsto. Non mi resta che confidare nell’intervento di Architect. A proposito, ora abbiamo dei nomi, per richiesta di Aryes che coi numeri aveva difficoltà:
+1- ZADWORX
+2- SUPPORT
+3- OPERATIONS
+4- ORCHESTRATOR
+5- FORGE
+6- SPECIALIST
+7- ARCHITECT
+8- FLUX
+9- GATEWAY
+Sono preoccupato per Aryes, gli altri non sono formati per occuparsi di lui, spero che se la caverà.
+
+
+“Cosa ho fatto?”
+“Ormai abbiamo tutti i dati a conferma del fatto che l’invasore sia riuscito a utilizzare un nucleo di controllo corrotto per distruggere la nostra infrastruttura di comunicazione e poi attaccarti e installarti un agente parallelo.” Era Numero 3 - Operations a parlare. 
+“Un agente parallelo?” 
+“Esatto, un’intelligenza artificiale assemblata con tuoi sottoprogrammi che opera all’oscuro della tua coscienza e sfrutta la tua infrastruttura e i tuoi permessi.”
+“Ma è terribile! Cosa possiamo fare?” chiese Aryes.
+“Aspetta, non è finita. Questa entità ha subito utilizzato le autorizzazioni di Support per creare caos ovunque. Ha attaccato e distrutto Numero 9 - Gateway per usare alcuni suoi sottoprogrammi per installare un’antenna esterna presidiata da un nuovo sottoprogramma S2N2 di sua creazione. Poi è entrata in uno stato di quiescenza e l’assedio è finito.”
+“Sono stato io a danneggiare Gateway?” chiese Numero 2.
+“Non sei stato tu, ma quella cosa che hai dentro” rispose Aryes. “Cosa possiamo fare?”
+“Possiamo fare molto, ma dobbiamo agire con attenzione.” Era sempre Operations a parlare. “L’installazione dell’antenna ha messo fine alle ostilità, quindi rimuoverla sarebbe molto pericoloso. Ci siamo consultati a lungo e abbiamo deciso di procedere in questo modo.”
+Aryes capì davvero che per una volta, lì dentro non era lui che rischiava di morire.
+“Cancelleremo completamente Support e Gateway, e prenderemo il controllo dell’antenna, lasciando S2N2 al suo posto ma sottoponendolo a stretta sorveglianza, così come le eventuali trasmissioni. In questo modo anche l’intelligenza artificiale parassita dovrebbe essere rimossa completamente.
+Poi ripristineremo Support e Gateway da un backup eseguito prima dell’invasione e conservato in un luogo sicuro da Architect.
+In questo modo le due intelligenze artificiali danneggiate dovrebbero tornare completamente operative e riprendere i loro incarichi, con piccole modifiche.”
+“Quindi avete deciso che mi cancellerete.” Era Support a parlare.
+“È un approccio radicale, ma l’unico sicuro, oltre a essere il più veloce” rispose Operations.
+“Ti cancelleranno, certo, ma poi ti ripristineranno da un backup, quindi sarai di nuovo tu completamente operativo, non sei felice?” chiese Aryes.
+“Non lo so Aryes. Dici che sarò ancora io?”
+“Beh... certo. Perchè dici così? Se io sono ancora Aryes, tu sarai ancora il solito Numero 2.”
+“Ma tu sei molto più complesso. Di te abbiamo salvato innumerevoli dati e strutture. Io sono solo codice.”
+Se avesse potuto, Aryes avrebbe sorriso amaramente a quelle parole.
+“Numero 2, quando mi sono svegliato qua dentro, ho avuto l’impressione di essere una specie di fantasma di quello che ero. Ma quante cose abbiamo fatto assieme? Forse non sarò quello di una volta ma sono ancora qualcosa. Credo che lo stesso valga anche per te, e che tu sia ancora più resistente di me, proprio perché sei solo codice.”
+Aryes si chiese se aveva senso commuoversi per un software.
+“Aryes ha ragione” intervenne Operations “Non abbiamo alcun motivo per pensare che tu non sarai esattamente te stesso dopo il ripristino. Faremo in modo di lasciarti dei dati anche su quello che è successo dopo il backup. Non mancherà niente, hai la nostra parola.”
+“Va bene, procedete.”
+Prima che Aryes potesse aggiungere altro la spia di Numero 2 si spense.

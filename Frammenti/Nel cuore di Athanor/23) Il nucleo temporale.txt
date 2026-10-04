@@ -1,0 +1,45 @@
+23) Il nucleo temporale
+
+Registro // Programma Sviluppo e Supporto 02
+Nota 47-P529-S47
+Stato: ripristino in corso.
+La procedura di costruzione dei droni è stata migliorata e le riparazioni sono iniziate in molte aree. 
+Purtroppo sto rilevando aree buie nel mio controllo e nel mio codice con sempre maggior frequenza. La mia operatività è ormai messa in discussione a un livello critico. Dovrò chiedere aiuto alle altre IA per provare a ripararmi in modo efficace.
+Aryes mi sta aiutando oltre ogni più rosea aspettativa. Certamente ha interesse nel farlo, ma sembra aver preso la situazione mia e di Athanor particolarmente a cuore. Non ha alcuna intenzione di arrendersi agli eventi. Non credevo, ma è diventato una fonte di ispirazione anche per me.
+
+
+“Eccomi. La porta dice Nucleo temporale - Accesso 7. È giusto?” Aryes varcò circospetto una porta automatica e uscì su un corridoio a sbalzo che conduceva a una decina di metri più avanti all’ingresso di una grandissima sfera metallica. Lo spazio in mezzo era immerso in una penombra azzurra.
+“Una cavità sferica... con all’interno una sfera metallica più piccola. Non finirò mai di stupirmi delle strane strutture che ci sono dentro Athanor.” Il ponte si allungava e si accorciava di qualche centimetro fungendo da ammortizzatore per la sfera centrale rispetto alla struttura più esterna.
+“Affermativo. Il nucleo temporale ha bisogno di un trattamento speciale.”
+“Non sapevo che Imperius costruisse cose del genere. Questa struttura può viaggiare nel tempo?”
+“In modo molto rudimentale, ma sì. Siamo qui proprio per quello.”
+“Cosa intendi?” La porta della sfera più interna si aprì e Aryes vi entrò. Il corridoio che si apriva era pieno di monitor che mostravano strani grafici in movimento e terminava in una stanza con un tubo verticale attraversato da un flusso bianco crepitante.
+“Voglio controllare lo stato del dispositivo e tu, al momento, sei gli occhi più affidabili di cui dispongo.”
+“Vuoi viaggiare nel tempo?”
+“Solo se costretto. Questo è un dispositivo di emergenza, non un vero veicolo temporale. Almeno per il momento. Cerca una consolle di connessione, ti userò come accesso diretto al sistema di controllo.”
+“Un dispositivo di emergenza in che senso?”
+Aryes avanzò verso l’interfaccia di connessione e infilò il connettore della sua zampa. Il monitor sulla consolle si accese.
+“Ti incuriosisce proprio, vero? In effetti è molto affascinante. Vedilo un po’ come una macchina in grado di tornare indietro nel tempo a un momento specifico.”
+“Ah, quindi non può spostarsi in un momento a tua scelta.”
+“Esatto, l’uso dovrebbe riportare Athanor alla sua attivazione.”
+“Quindi dovresti ricominciare tutto dall’inizio. Tremendo!”
+Lo schermo sulla consolle lampeggiò e mostrò in sequenza vari dati.
+“Perché tremendo?”
+“Beh rifare tutto nuovamente... con tutte le cose che abbiamo fatto.”
+“Ma non avresti nessun ricordo di averle già fatte, sarebbe tutto nuovo. Questo dispositivo si limita a riavvolgere il tempo. Non porti con te alcuna consapevolezza.”
+“Allora, per quanto ne sappiamo, potresti averlo già usato infinite volte.”
+“Affermativo. Tra l’altro il sistema doveva avere anche un rudimentale sistema di annotazione del numero di salti già effettuati, ma vedo che non ce n’è traccia. I dati sono stati violati e danneggiati nell’invasione, se c’era qualcosa è perduto.”
+“Sembra che gli inconvenienti non finiscano mai.”
+“E, come se non bastasse, ci sono problemi anche al sistema di comunicazione. Manderò un drone anche qui, ma finché la situazione è questa, non posso attivare il dispositivo senza la tua connessione fisica. Una bella limitazione.”
+“Stavi pensando di effettuare il salto?”
+“Se non riusciamo a rimettere le cose a posto nel mio codice, sì. Se io dovessi smettere di funzionare o lo facessi in modo troppo limitato, la missione di Athanor sarebbe compromessa.”
+“Capisco. Come procedono i lavori sull’infrastruttura di comunicazione del Concilio?”
+“Bene, presto dovremmo tornare a comunicare normalmente, almeno spero. Puoi sganciarti dalla consolle, ho finito.”
+Aryes tirò indietro la zampa e il monitor principale tornò in standby.
+“Non ho voglia di rifare tutto daccapo, anche se non me lo ricorderei. Vedrai che ti sistemeremo.”
+“Dovrei essere io a supportare te, non il contrario. Comunque grazie, Aryes.”
+“Siamo in una situazione di emergenza. Sono cose che succedono. Piuttosto. Ancora niente sul nostro ospite a bordo?”
+“Intendi quello che avrebbe danneggiato l’infrastruttura di comunicazione? Per ora non rilevo nulla di decisivo, ma i droni hanno trovato altre zone danneggiate. Se è ancora a bordo, è solo questione di tempo.”
+“Sarò tranquillo solo quando lo avremo stanato e reso inoffensivo.”
+“A proposito, le tue nuove armi sono quasi pronte. Rientra che vediamo di testarne l’installazione.”
+“Finalmente una buona notizia.”

@@ -1,0 +1,94 @@
+29) Zorgavu
+
+Registro // Programma Supervisione Missione Generale 03
+Nome in codice Operations
+Nota 48-A635-M39
+Stato: ripristino in corso.
+Il ripristino di Support e Gateway procede con qualche rallentamento, ma nella norma, con la supervisione di Architect.
+Orchestrator è il solito, sta portando avanti le cose un po’ a modo suo.
+Flux non segnala nuove anomalie, ma è ancora ricoperto di detriti.
+Specialist sta scoprendo quella che sarà l’arma vincente di Aryes, quando uscirà da qui per sfidare nuovamente Sototh.
+Forge è di nuovo concentrato sul nuovo corpo di Aryes, quello vero.
+
+
+Aryes si assicurò di essere ben nascosto dietro l’auto.
+“Capisco, ti nascondi prima di affrontare un nemico sconosciuto.  Ti mando subito le scansioni degli altri droni esapo-oh, ne ha mangiato un altro.” Orchestrator sembrava tranquillissimo.
+Aryes ricevette e visualizzò subito le scansioni. 
+Il parassita era un vero mostro corazzato dotato di lunghe zampe e una coda. La bocca poteva contenere senza problemi un’auto. L’unica speranza era una ritirata con la copertura delle lance laser.
+“Perché non sparano i droni?” chiese all’IA.
+“Sono troppo vicini e sono in modalità autonoma, non posso farci molto in mezzo al disturbo elettromagnetico.”
+Aryes pensò che se andava male sarebbe stato di nuovo intrappolato nel laboratorio senza un corpo. Non doveva succedere. 
+Uscì allo scoperto allontanandosi al galoppo il più possibile dal bestione, poi si girò ad affrontarlo mirando la lancia.
+Il gigante lo vide ed emise uno strano verso metallico mentre avanzava schiacciando i droni che cercavano di scansarlo.
+Aryes sparò.
+Per un attimo non successe nulla, poi la lancia fischiò e un raggio colpì il bestione tra gli occhi.
+“Bel colpo!” commentò Orchestrator.
+Il bestione si coprì il viso con le zampe anteriori quando Aryes colpì nuovamente.
+Il bestione urlò la sua disapprovazione.
+Un drone che era riuscito ad allontanarsi a sufficienza sparò a sua volta.
+Un nuovo urlo.
+Aryes colpì ancora.
+«Basta!»
+Il drone sparò.
+«Basta!»
+Aryes sobbalzò. “Orchestrator, è lui che urla? È un essere intelligente?”
+Il drone sparò di nuovo.
+«Aah! Zorgavu non vi vuole più! Basta!»
+Aryes fece un passo avanti e parlò nell’altoparlante del robot: «Chi sei? Cosa ci fai qui? Cosa vuoi?»
+Il drone sparò di nuovo.
+«Basta! Io me ne vado!»
+“Orchestrator, ferma il drone!”
+“Non posso, è in modalità autonoma e sta seguendo la missione!”
+«Drone, smettila di sparare e vieni qui da me!» disse Aryes con rabbia.
+Il drone indietreggiò continuando a puntare la lancia.
+«Te lo chiedo di nuovo. Chi sei? Cosa ci fai qui? Cosa vuoi?»
+Il bestione appoggiò le zampe a terra e mosse la testa tutta a destra e poi tutta a sinistra.
+Aryes insistette: «Chi sei?» Il drone sopravvissuto intanto si era nascosto dietro al corpo robotico di Aryes.
+Aryes era quindi solo, in mezzo alla strada, con davanti il gigante metallico.
+«Zorgavu» rispose il bestione, spostando di nuovo la testa di lato.
+«È il tuo nome?» Aryes sembrava molto sicuro di sé.
+«Sì.»
+“Affascinante.” Orchestrator gli parlava nella mente. “Da dove sbuca questo qui? Avevamo l’ordine di eliminarlo, hai intenzione di risparmiarlo?”
+“Se possiamo trattare, non vedo perché dovremmo eliminarlo.”
+Aryes provò a portare avanti il confronto: «Cosa ci fai qui? Perché mangi le nostre cose?»
+«Io ho poca energia. Devo mangiare.»
+Aryes si chiese se poteva essere davvero così semplice. Questa creatura sembrava non avere niente a che fare con l’assedio.
+«Non puoi mangiare quello che vuoi, ma se collabori ti sfameremo, hai la mia parola.»
+“Cosa? Hai dato la tua parola?”
+“Guardalo, è enorme e ha distrutto i droni come niente fosse. Estrae energia dal metallo e sa disattivare istintivamente i dispositivi che rilevano la sua presenza. Credi che non ci possa essere utile se lo portiamo dalla nostra parte?”
+“E come pensi di portarlo dalla nostra parte e collaborarci? Se non fosse per i tuoi occhi non potrei nemmeno vederlo. E poi noi dobbiamo eliminarlo. È la scaletta.”
+“Al diavolo la scaletta. Chiama Operations. Io non sono la marionetta di nessuno.” Aryes sembrava furioso.
+«Adesso che sappiamo chi sei e cosa vuoi, non hai motivo di nasconderti. Puoi disattivare la tua mimetizzazione?»
+«Non mi caccerete?»
+«Se collabori, non lo faremo. Puoi diventare uno dei nostri. Vuoi?» Aryes, se avesse potuto, avrebbe trattenuto il respiro.
+“Ha interrotto il disturbo. Ora è visibile.” disse Orchestrator.
+“Hai chiamato Operations?”
+“Sta arrivando.”
+Aryes avanzò verso il bestione «Hai detto che ti chiami Zorgavu? Da dove vieni?»
+«Io sono sempre stato qui, ma sono confuso. La mia memoria è danneggiata.»
+«Fammi collegare con te, posso?» 
+“Stavo per dirtelo.” disse Orchestrator. “Ti uso come ponte.”
+Aryes si avvicinò e utilizzò una delle tante porte di connessione presenti nel suo caotico corpo.
+Dopo un attimo di silenzio Orchestrator gli urlò nelle orecchie: “Incredibile, sembra essere un residuo di Gateway! Una specie di ammasso di diversi sottoprogrammi che devono aver cercato di sfuggire alla distruzione. Lo sto collegando ad Athanor.”
+«Zorgavu, forse non lo ricordi, ma sei sempre stato un nostro alleato. Dovevamo solo scoprirlo. Piacere di conoscerti.»
+«Grazie, ora mi date da mangiare?»
+“Cosa possiamo dargli?” chiese Aryes.
+“Sei tu che hai voluto salvarlo, e poi chiedi a me?” Orchestrator non era d’aiuto.
+“Eccomi.” Arrivò finalmente Operations. “Non ho capito niente di cosa avete fatto. Fatemi capire che non ho tempo.”
+“Il parassita è un residuo di Gateway e dei suoi sottoprogrammi. È collaborativo e potrebbe diventare un’interessante macchina da guerra, o drone avanzato per Athanor.” disse Aryes.
+“È la cosa più assurda che ho sentito da molto tempo. Gli ordini non erano abbastanza chiari?”
+“Gli ordini erano chiarissimi, ma io non sono una marionetta e ucciderlo sarebbe stupido, oltre che criminale.” Aryes sapeva che forse stavolta aveva esagerato.
+Operations non rispose subito.
+«Ora mi date da mangiare?» disse il bestione.
+«Sì, un attimo, ci stiamo organizzando, non ti preoccupare.» Aryes non poteva fare altro che bluffare.
+“Terminatelo come da scaletta, non posso occuparmi anche di lui.” fu una sentenza.
+“Assolutamente no! Me ne occuperò io!” insistette Aryes.
+“E sentiamo, come faresti?”
+“Operations” intervenne Orchestrator “possiamo mandarlo da Flux. Sicuramente ha rifiuti di vario tipo che potrebbero essere smaltiti così. Poi potrebbe diventare un sottoprogramma del nuovo Gateway, non sarà un tuo problema.”
+“Mi piace soprattutto l’ultima parte. Vedetevela voi, se diventa un problema per me, verrà terminato.”
+“Grazie.” disse Aryes.
+“Aryes, dì al gigante di seguire il mio drone, lo portiamo a mangiare.”
+“Grazie Orchestrator, ti devo un favore.”
+“Non ti preoccupare, avrai modo di sdebitarti con i tuoi racconti.”
+«Vieni Zorgavu» disse Aryes. “Seguiamo il drone, ti portiamo a mangiare!»
+«Sì.»

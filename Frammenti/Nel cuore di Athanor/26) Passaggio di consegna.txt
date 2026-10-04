@@ -1,0 +1,22 @@
+26) Passaggio di consegna
+
+“Ehi! Non ho neanche fatto in tempo a salutarlo!” sbottò Aryes.
+“Salutare chi? Support? Sarà presto online” minimizzò Operations, “e nel frattempo mi occuperò io di te, non temere, io dirigo tutte le operazioni, andrà bene.”
+“Sarai il mio nuovo agente di supporto?” 
+“Affermativo ma è solo una nomina temporanea. Io ho molte cose di cui occuparmi, ma non credo che sarà un grosso problema gestire anche te, in fondo devi solo attendere la guarigione.”
+Non era proprio il migliore degli inizi possibili.
+“In realtà io vorrei rendermi utile...”
+“No, non credo che sia una buona idea. Tornerai nella tua stanza nel laboratorio di ricerca e aspetterai lì.”
+Era proprio il peggiore degli inizi possibili, ma non aveva alcuna intenzione di lasciarla passare.
+“Non esiste.”
+“Come dici?”
+“Ho detto di no. Io continuerò a collaborare con voi e a darmi da fare per sistemare Athanor. Voi avete bisogno di me e io ho bisogno di fare qualcosa di utile.”
+“So che sei abituato ad essere intrattenuto continuamente, ma io ho anche molto altro da fare, non riuscirei...”
+“Allora fallo fare a qualcun altro.”
+Operations non rispose subito.
+“Vedo che sei determinato e io non ho ancora letto tutti i rapporti di Support ma ho visto che ha dovuto darsi molto da fare con te. Non sei uno facile, vero? Immagino di dover mediare con te una soluzione.”
+“Potrebbe aiutare me” intervenne Orchestrator “abbiamo dei parassiti da rimuovere, potrebbe affiancare le squadre di droni per le operazioni più tranquille, a patto che gli forniate una lancia.”
+“Che ne pensi, Aryes? Questa soluzione potrebbe compiacerti?”
+“È sicuramente più adatta a me di un’attesa immobile.”
+“Così sia, allora. Orchestrator, ovviamente la sicurezza di Aryes ha la priorità. Dovessero esserci problemi di qualche tipo, sgancia il drone e tienilo al sicuro. Forge, prepara una lancia laser per Aryes e installala sul drone prima della sua partenza. Io mi concentrerò sul laboratorio con Specialist e sul ripristino con Architect. Ci aspetta un gran lavoro, diamoci dentro. Ci aggiorniamo presto.”
+

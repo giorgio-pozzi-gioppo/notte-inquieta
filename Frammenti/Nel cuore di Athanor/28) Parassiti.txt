@@ -1,0 +1,54 @@
+28) Parassiti
+
+Registro // Programma Supervisione Missione Generale 03
+Nome in codice Operations
+Nota 48-A620-M30
+Stato: ripristino in corso.
+Il ripristino di Support e Gateway procede senza intoppi. Architect, dopo aver recuperato i backup, ha attivato la trappola per l’intelligenza artificiale parassita, ma per il momento non è scattata. S2N2 non ha reagito ai cambiamenti attuati attorno a lui e all’antenna.
+Orchestrator è entusiasta della collaborazione con Aryes e sta già perdendo tempo a conoscerlo. Devo tenerlo d’occhio come sempre per evitare che divaghi e non rispetti la scaletta.
+Spero comunque che gli altri parassiti saranno eliminati velocemente.
+Flux non segnala nuove anomalie.
+Specialist ha allestito un nuovo esperimento. Non vedo l’ora di saperne di più, a breve dovrei ricevere il primo rapporto.
+Forge ha perso un po’ di tempo ad armare e rinforzare il robot di Aryes. Come sempre, ha fatto un ottimo lavoro. Essendo connesso in remoto, per Aryes considero la missione con Orchestrator a rischio praticamente nullo, e soprattutto non un problema mio. Evviva.
+
+
+Aryes avanzava lungo un corridoio, verso la porta di un ascensore.
+“Adesso usciamo completamente dalle zone che hai visitato finora e ci spostiamo verso la parte inferiore di Athanor. Dobbiamo avvicinarci ai reattori perché è lì che i parassiti si muovono.”
+“Bene. C’è qualcosa che devo sapere prima che inizi il tutto?”
+“Nulla che non ti abbia già detto.”
+“Ottimo.”
+La porta dell’ascensore scivolò di lato e Aryes entrò.
+“Che piano?”
+“Ci penso io. Scendiamo del tutto. Ci vorrà un po’. Intanto potremmo approfittarne per parlare di te, Imperius e Diana. Operations ci ha interrotto.”
+“A proposito, perché mi hai mentito? Mi hai detto che stavamo aspettando che i droni finissero la ricarica ma poi, quando Operations ti ha richiamato, siamo partiti subito.”
+“Mi dispiace, ero solo ansioso di sapere di più di te.”
+“Ho capito. Facciamo così, parliamo finché non arriviamo sul piano dove si svolge la missione, poi ci concentriamo sulla missione, ok?”
+“D’accordo, mi sembra una buona idea. Che ci facevi là fuori nel Giardino del Mezzo?”
+“Non perdi tempo, eh? Il mio cristallo natale è stato distrutto mentre ero via in cerca di avventura. Non so bene cosa sia successo e chi ne sia il responsabile. Forse Sototh? Plausibile visto quello che succede là fuori, ma non certo. Ho girato quindi a lungo in cerca di informazioni e giustizia, ma non ho trovato niente di ciò là fuori, solo leggende e guerra.”
+“Dev’essere stato molto duro.”
+“Non è stato un viaggio facile, e quando mi sono trovato solo, è stato drammatico. Per questo mi sono subito affezionato a Shub o Diana come la chiamate adesso. Lei mi ha aiutato, si preoccupava per me. Dovresti dirmi di più del fatto che si è reincarnata.”
+“Ma certo! So che ci sono molti documenti secretati in proposito. Per qualche motivo era morta molto tempo prima del tuo combattimento con Sototh, ed è tornata proprio a ridosso della prima attivazione di Athanor, probabilmente per aiutare.”
+“Qualcosa non mi torna. Io l’ho incontrata poco tempo prima di scontrarmi con Sototh, stava benissimo. Siamo sicuri di parlare della stessa persona?”
+“Beh di compagna di Imperius ce n’è solo una, ma lei è una specie di dea, forse non era davvero morta come credevo. Come ti ho detto ci sono molti documenti secretati in merito. Davvero intrigante!”
+L’ascensore bippò. La porta si aprì scorrendo di lato. Aryes uscì felice che quella parentesi sul suo passato si fosse richiusa. Shub aveva cambiato nome, questo non gli piaceva. Quante altre cose erano cambiate da quando era rinchiuso? Cosa avrebbe trovato là fuori? “Ora concentriamoci sulla missione... ma qui è tutto diverso! Questa sembra una zona per gli umani!”
+“E lo è.”
+Davanti agli occhi aveva una strada luccicante, all’interno della struttura metallica, dotata di marciapiedi e aperture simili a negozi e alloggi.
+“Devi sapere che quando Athanor è stato costruito, inizialmente, era esso stesso una sorta di casa per chi lo costruiva. Mano a mano che il progetto avanzava, gli umani erano sempre meno necessari per la costruzione, per questo altre zone sono meno “urbane”. Questo è uno dei punti in cui è cominciata la costruzione, quindi sembra di essere in qualche strano borgo sotterraneo super tecnologico. Ecco i droni che ci accompagneranno.” Si avvicinarono quattro esapodi armati di lancia laser.
+“Davvero affascinante, ho l’impressione che possa spuntare qualche umano da dietro a ogni angolo.”
+“Purtroppo non c’è proprio nessuno. Ora seguiamo le indicazioni in sovraimpressione, raggiungiamo i parassiti.”
+Aryes avanzò seguendo la riga azzurra che gli indicava la strada direttamente nel campo visivo. Passò di fianco a un’auto parcheggiata. Sul fianco aveva una I maiuscola azzurra. Imperius non aveva mai avuto molta fantasia per quelle cose. Scavalcò una bicicletta stesa a terra senza catenaccio. Strano, pensò, sembrava abbandonata in mezzo alla strada. Avanzò ancora e notò che molte porte erano solo socchiuse. Altre auto erano ferme in mezzo alla strada con gli sportelli aperti. A prima vista non se n’era accorto, ma sembrava essere successo qualcosa. Come se le persone fossero fuggite molto in fretta.
+“Orchestrator, ho notato che c’è un discreto disordine, come se la zona fosse stata abbandonata di corsa. Cos’è successo qui?”
+“Grande! Te ne sei accorto. In effetti è proprio quello che è successo. Quando Athanor ha anticipato la prima attivazione, le ultime persone rimaste sono dovute letteralmente fuggire per non rimanere bloccate all’interno. Non erano in molti, ma questo causò parecchia confusione. Ed eravamo già nel mezzo di una battaglia che stava distruggendo la nostra base. Da allora non c’è mai stato tempo per sistemare queste sciocchezze, le priorità erano altre.”
+“Capisco, un giorno ti chiederò di raccontarmi di più su quel giorno. Ora pensiamo a stanare i parassiti.”
+“Giusto. Tra l’altro vedo che si stanno allontanando, acceleriamo il passo!”
+Aryes e i droni accelerarono lungo la strada facendo un paio di svolte indicate dalla riga blu. Di tanto in tanto trovavano delle macerie metalliche, probabile segno dell’attività dei parassiti.
+“Ci siamo quasi! Siamo al margine della zona di disturbo, hai qualche problema col robot?”
+Aryes notò che i led degli esapodi passavano da azzurro a rosso.
+“Mi sembra che sia tutto come al solito.”
+“Perfetto, sapevo che Forge avrebbe risolto brillantemente. È proprio il suo stile.”
+Uno stridore metallico seguito da un boato attirò la loro attenzione subito dopo la svolta successiva.
+“Cosa sarà stato?”
+Un corpo metallico grande quanto tutto il passaggio si sporse oltre la curva e squadrò la strada con due grandi occhi artificiali. Allungò una zampa afferrando un drone e portandoselo alla bocca che lo masticò senza alcun problema.
+Gli altri droni indietreggiarono, mentre Aryes si buttava dietro a un’auto.
+“Interessante! Questo non l’avevo proprio previsto!” esclamò Orchestrator. “Aryes, ora cosa facciamo?”
+

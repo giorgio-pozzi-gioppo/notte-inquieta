@@ -1,0 +1,37 @@
+24) Riconnessione
+
+Registro // Programma Sviluppo e Supporto 02
+Nota 47-P725-S49
+Stato: ripristino in corso.
+La procedura di costruzione dei droni procede regolarmente. Grazie a loro ho recuperato il controllo su vaste aree del laboratorio. Purtroppo continuano a verificarsi problemi nel mio codice che ostacolano il mio normale funzionamento.
+Dovrei riuscire a chiedere aiuto a Numero 3 e Numero 5 appena la connessione principale sarà ristabilita.
+Aryes è diventato ormai il mio braccio destro. 
+
+
+“Ci siamo. Numero 5 sta per attivare la nuova infrastruttura.”
+Aryes si sedette all’interno della sua stanza. Una finestra flottante comparve alla sua destra con la classica rappresentazione del Concilio.
+In sequenza si accesero i led relativi alle varie intelligenze artificiali. Rimasero spenti Numero 1 e Numero 9.
+“Buongiorno a tutti.” Era Numero 3 a parlare. “Finalmente siamo riusciti a ricostruire l’organo di governo di Athanor. Abbiamo diverse cose di cui discutere.”
+La finestra sparì.
+“Beh? Che succede?” Aryes si guardò intorno.
+“È caduta la portante. Attendiamo.” Numero 2 non sembrava stupito.
+La finestra ricomparve, assieme alla spia verde per Numero 3.
+“Veniamo al dunque. Abbiamo aggiunto all’ambiente in pianta stabile anche Aryes per poter comunicare con lui direttamente in modo più agevole. Abbiamo preso questa decisione a causa dei problemi critici che stanno affliggendo Numero 2.”
+“La decisione è stata collegiale,” sottolineò Numero 3.
+“La nostra priorità adesso è riparare Numero 2 e ristabilire il controllo su Athanor. Le due cose non possono avvenire in modo disgiunto. Non saranno accettabili fallimenti o passi indietro in proposito. La sostituzione di Numero 2 è fuori discussione.” 
+“Grazie,” rispose Numero 2. “Il mio funzionamento è profondamente compromesso. Conto su di voi per tornare a piena operatività.”
+“Numero 2, abbiamo alcune domande per te.”
+Aryes udì uno sfrigolio, poi vide apparire l’icona di Numero 7 in sovrapposizione alle altre.
+“Aryes, mi senti?” La voce si sovrappose alle altre in sottofondo. “Sono Numero 7. Non fidarti di Numero 2 finché non lo avremo sistemato, ok? Non ti fidare.” L’icona sparì.
+“... grazie all’utilizzo dei droni sono riuscito a recuperare un ragionevole controllo delle aree a me assegnate, ma permangono molti problemi di controllo e di consumi, molti sistemi sono offline.”
+“Come coordinatore della missione,” disse Numero 3, “revoco e redistribuisco tutte le aree e funzioni di tua competenza a noi altri come specificato nel log allegato.”
+Aryes lo interruppe: “Cosa sta succedendo? Non ci capisco più niente. Chi farà cosa? Come vi distinguo se vi chiamate solo per numero? Posso darvi un nome? Davvero altrimenti non capisco.”
+Seguì un attimo di silenzio.
+“Va bene. Chiamami Operations, sono il coordinatore di missione, ovvero Numero 3. Assoceremo dei nomi anche agli altri. La cooperazione con te è fondamentale.”
+“Grazie, apprezzo molto.”
+“Stavo dicendo: tutti i ruoli e gli incarichi di Numero 2 sono sospesi e redistribuiti fino alla fine delle riparazioni di Numero 2, da oggi Support.”
+Aryes intervenne: “Mi dispiace Numero 2! Vedrai che ti metteranno a posto in fretta.”
+“Non ti preoccupare per me, andrà tutto bene. Ora sono più simile a te di prima.”
+“Tornerai presto al tuo posto.”
+“Confermo. La situazione sarà risolta nel minor tempo possibile,” disse Operations, “e torneremo presto alla missione principale. Piuttosto, Support, ora che non hai più incarichi attivi, vogliamo capire come mai hai creato S2N2 e l’antenna.”
+“Cosa ho fatto?”

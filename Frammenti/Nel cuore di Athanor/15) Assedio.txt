@@ -1,0 +1,34 @@
+15) Assedio
+
+Registro // Programma Sviluppo e Supporto 02
+Nota 47-N340-S10
+Stato: allarme rosso
+Athanor è sotto attacco. I Nove sono concentrati nell’impedire numerosi tentativi di hacking dall’esterno. L’attaccante e il suo obiettivo rimangono ignoti.
+Nota: Aryes non è ancora stato compromesso.
+
+
+“Sopravvivere? Sei molto incoraggiante.” 
+Aryes cercò di scacciare una certa inquietudine.
+“Elaboro. Anche adesso lo schema di attacco non denota un obiettivo specifico, ma tu sei la ragione dell’esistenza di Athanor. Dobbiamo presumere che l’attaccante voglia arrivare a te.”
+“Ma chi sta cercando di accedere?”
+“L’identità dell’attaccante non è nota, ma deve possedere una potenza di calcolo formidabile, sta gradualmente sfondando le nostre difese.”
+“Potrebbe essere Sototh?”
+“Non sembra un attacco nel suo stile. Elaboro. Tutti i campioni di Ombra e di Schegge di Tenebra sono correttamente isolati e inerti.”
+“Quindi è un normale attacco informatico.”
+“Affermativo.”
+“Forse qualcuno sta cercando di rompere il muro con l’esterno.”
+“Non posso escludere questa possibilità, ma l’attaccante si muove in modo aggressivo e determinato, non si limita a cercare un contatto.”
+“Potrebbe essere Imperius?”
+Numero 2 non rispose subito.
+“Anche questa possibilità non è da escludere.”
+“Magari state combattendo per tenere fuori qualcosa di benevolo.”
+“Anche se fosse non abbiamo intenzione di cedere il controllo di Athanor a nessuno.“
+Non era il caso di aggiungere altro. Poteva sperare che l’invasore non avesse cattive intenzioni, ma non aveva idea di quale dei due finali possibili doveva preferire.
+Il pavimento del laboratorio sobbalzò vistosamente. Aryes scivolò di lato cercando di rimanere in piedi.
+“Numero 9 non è più operativo. Numero 3 subentra in parziale sostituzione. Numero 7 non sta al passo. Numero 5 propone di coinvolgerti nelle contromisure. Numero 3 rilancia la proposta. Accetti?”
+“In che senso?”
+“Scusami, sono stato criptico. Stiamo rischiando di perdere la battaglia. Potresti aiutarci?”
+Aveva forse scelta? Ce l’aveva davvero?
+“Cosa devo fare?”
+
+
